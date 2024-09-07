@@ -1,3 +1,3 @@
 Problems_solving
 <br>
-Owner:- Rajkishor Kumar
+Auther:- Rajkishor Kumar
