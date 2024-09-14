@@ -9,7 +9,11 @@ int main ()
     {
         scanf("%d",&array[i]);
     }
-
+    printf("your given unsorted array");
+    for (i=0;i<n;i++)
+    {
+        printf("%d ",array[i]);
+    }
     
     return 0;
 
